@@ -16,6 +16,6 @@
     "install": "^0.13.0",
     "mongoose": "^5.9.18",
     "ms": "^2.1.2",
-    "superagent": "^5.2.2"
+    "superagent": "^9.0.1"
   }
 }
